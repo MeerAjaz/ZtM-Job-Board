@@ -12098,6 +12098,22 @@
         "state": "Hamburg",
         "country": "Germany"
       }
+    },
+    {
+    "id": 846,
+    "name": "Ajaz Ahmed",
+    "img": "[YOUR_IMG_URL]",
+    "links": {
+      "website": "[YOUR_WEBSITE_URL]",
+      "linkedin": "https://www.linkedin.com/in/meerajaz/",
+      "github": "https://github.com/MeerAjaz/"
+    },
+    "jobTitle": "Software Developer | Python Developer",
+    "location": {
+      "city": "Hyderabad",
+      "state": "Telangana",
+      "country": "India"
     }
-  ]
+  
+
 }
